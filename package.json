@@ -1,5 +1,6 @@
 {
   "name": "quiz-tool",
+  "homepage": "https://thanghope.github.io/quiz-tool",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,7 +11,10 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+"deploy": "gh-pages -d build"
+
   },
   "browserslist": {
     "production": [
@@ -23,5 +27,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }

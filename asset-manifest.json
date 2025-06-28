@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Quiz-Tool/static/css/main.06f08d4f.css",
-    "main.js": "/Quiz-Tool/static/js/main.c9cf910e.js",
+    "main.css": "/Quiz-Tool/static/css/main.47635676.css",
+    "main.js": "/Quiz-Tool/static/js/main.f6cb41cd.js",
     "index.html": "/Quiz-Tool/index.html",
-    "main.06f08d4f.css.map": "/Quiz-Tool/static/css/main.06f08d4f.css.map",
-    "main.c9cf910e.js.map": "/Quiz-Tool/static/js/main.c9cf910e.js.map"
+    "main.47635676.css.map": "/Quiz-Tool/static/css/main.47635676.css.map",
+    "main.f6cb41cd.js.map": "/Quiz-Tool/static/js/main.f6cb41cd.js.map"
   },
   "entrypoints": [
-    "static/css/main.06f08d4f.css",
-    "static/js/main.c9cf910e.js"
+    "static/css/main.47635676.css",
+    "static/js/main.f6cb41cd.js"
   ]
 }
